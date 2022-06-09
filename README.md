@@ -1,2 +1,2 @@
-# TicTacToe_v1
+# TicTacToe
 This is an example for developerakademie.com
