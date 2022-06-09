@@ -3,8 +3,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 0;
     height: 100vh;
-    margin: 0px;
 }
 
 .player-panel {
@@ -28,6 +28,10 @@ body {
 
 .player-inactive {
     opacity: 0.5;
+}
+
+.lineContainer{
+    position: relative;
 }
 
 table {
