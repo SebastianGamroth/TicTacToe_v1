@@ -27,7 +27,7 @@ function restart() {
     document.getElementById('restart-btn').classList.add('d-none');
 
     for (let i = 0; i < 8; i++) {
-        document.getElementById('line-' + i).classList.add('d-none');
+        document.getElementById('line-' + i).style.transform = '';
     }
 
     for (let i = 0; i < 9; i++) {
